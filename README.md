@@ -1,2 +1,1 @@
-# demo
-starting with github
+this is mmy frst attempt 
